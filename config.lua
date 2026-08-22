@@ -1,5 +1,5 @@
 return {
-    PublicUsage = true,
+    PublicUsage = false,
 
     
     Version = 1,
