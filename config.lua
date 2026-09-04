@@ -4,5 +4,5 @@ return {
     
     Version = 1,
 
-    DisabledMessage = "Dimension53Hub is currently disabled."
+    DisabledMessage = "Azimuth_Pi Hub is currently disabled."
 }
