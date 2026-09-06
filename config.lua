@@ -2,7 +2,7 @@ return {
     PublicUsage = true,
 
     
-    Version = 5,
+    Version = 6,
 
     DisabledMessage = "Azimuth_Pi Hub is currently disabled."
 }
